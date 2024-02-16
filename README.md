@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍🎓 I'm studying Data Science and Data Engineering
-- 🔭 I’m currently working on a software engineering project using Java
+- 🔭 I’m currently working on a software engineering project 
 
 
 <!--
