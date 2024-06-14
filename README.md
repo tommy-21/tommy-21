@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍🎓 I'm studying Data Science and Data Engineering
-- 🔭 I’m currently working on a software engineering project 
+- 🔭 I’m currently doing an intership, working on a Data Science project about multimodal models
 
 
 <!--
